@@ -42,3 +42,13 @@ button:active{
 label{
     margin-top: 20px;
 }
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+    body {
+        transform: translateY(25%);
+    }
+    .container{
+        width: 80%;
+        padding: 20px;
+    }
+}
