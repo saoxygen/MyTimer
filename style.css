@@ -43,7 +43,7 @@ label{
     margin-top: 20px;
 }
 
-@media only screen and (min-width: 200px) and (max-width: 767px) {
+@media only screen and (min-width: 200px) and (max-width: 1024px) {
     body {
         transform: translateY(25%);
     }
